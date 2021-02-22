@@ -1,1 +1,2 @@
+apt-get install ghostscript
 qpdf --empty --pages 1_*.PDF -- ALL_Platezhnoe_poruchenie.pdf
